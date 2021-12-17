@@ -1,3 +1,16 @@
+## [0.3.12](https://github.com/TheComputerM/svelte-materialify/compare/v0.3.11...v0.3.12) (2021-12-17)
+
+### Bug Fixes
+
+- **datatable:** added missing typing re-exports ([5d4bc6c](https://github.com/TheComputerM/svelte-materialify/commit/5d4bc6cc594d66f9c6356c939e616a4d7add7718))
+- **ListGroup:** offset not applied when toggling off and on quickly ([f65b819](https://github.com/TheComputerM/svelte-materialify/commit/f65b8198fa5a752190812b79f24872e1f12b147d))
+- **table.d.ts:** prop descriptions ([fab6c29](https://github.com/TheComputerM/svelte-materialify/commit/fab6c2916e5e6d2638527224bcc39228b4f73079))
+- **Textarea:** Fix label not being reactive ([521d974](https://github.com/TheComputerM/svelte-materialify/commit/521d9744fe56cb3871da1cf9599ad276a626ede8))
+
+### Features
+
+- **Table.d.ts:** New definition file ([e091f32](https://github.com/TheComputerM/svelte-materialify/commit/e091f3216971a0a876790e4287ae369bb9a94cc0))
+
 ## [0.3.11](https://github.com/TheComputerM/svelte-materialify/compare/v0.3.10...v0.3.11) (2021-06-15)
 
 ### Bug Fixes
