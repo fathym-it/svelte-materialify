@@ -2,9 +2,8 @@
 
 Svelte Materialify is soon to be deprecated is favour of [svelterialjs](https://github.com/svelterialjs/svelterial). My exams are still going on as they were postponed due to the increasing number of CoVID cases in my country.
 
-
 <p align="center">
-  <a href="https://svelte-materialify.vercel.app/" target="_blank">
+  <a href="https://svelte-materialify.lowcodeunit.com/" target="_blank">
     <img alt="Svelte Materialify Logo" width="100" src="logo/logo.svg">
   </a>
 </p>
@@ -38,17 +37,17 @@ Svelte Materialify is soon to be deprecated is favour of [svelterialjs](https://
 
 A better Material UI design framework for Svelte with full support for light / dark themes and customisability.
 
-This is still in development. To contribute, please read [CONTRIBUTING.md](https://svelte-materialify.vercel.app/getting-started/contributing/) and open a PR.
+This is still in development. To contribute, please read [CONTRIBUTING.md](https://svelte-materialify.lowcodeunit.com/getting-started/contributing/) and open a PR.
 
 There are currently more than **50+** different components are more are planned to arrive soon.
 
 ## Website
 
-Website is located at [https://svelte-materialify.vercel.app/](https://svelte-materialify.vercel.app/), it is still in development.
+Website is located at [https://svelte-materialify.lowcodeunit.com/](https://svelte-materialify.lowcodeunit.com/), it is still in development.
 
 ## Installation
 
-See how to [install](https://svelte-materialify.vercel.app/getting-started/installation/) svelte materialify for your preferred framework _(svelte/sapper/routify)_.
+See how to [install](https://svelte-materialify.lowcodeunit.com/getting-started/installation/) svelte materialify for your preferred framework _(svelte/sapper/routify)_.
 
 ## Support
 
@@ -56,7 +55,7 @@ For help and support questions, please join our [community discord](https://disc
 
 ## Contributing
 
-Thank you for taking the time to contribute, you should start by reading the [Code of Conduct](https://github.com/TheComputerM/svelte-materialify/blob/master/CODE_OF_CONDUCT.md) and the [Contribution Guide](https://svelte-materialify.vercel.app/getting-started/contributing/).
+Thank you for taking the time to contribute, you should start by reading the [Code of Conduct](https://github.com/TheComputerM/svelte-materialify/blob/master/CODE_OF_CONDUCT.md) and the [Contribution Guide](https://svelte-materialify.lowcodeunit.com/getting-started/contributing/).
 
 ## Changelog
 

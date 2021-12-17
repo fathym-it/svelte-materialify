@@ -11,5 +11,3 @@ node_modules/
 yarn-error.log
 npm-debug.log
 lerna-debug.log
-
-.vercel
