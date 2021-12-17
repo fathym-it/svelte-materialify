@@ -7,6 +7,7 @@
   "scripts": {
     "api": "lerna run api",
     "build": "lerna run build",
+    "lcu-build": "cd ./packages/docs && npm run docs",
     "dev": "lerna run --stream dev",
     "docs": "lerna run docs",
     "fmt": "prettier . -w --plugin-search-dir=.",
