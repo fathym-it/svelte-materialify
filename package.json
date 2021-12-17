@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@fathym-it/svelte-materialify",
   "private": true,
   "engines": {
     "yarn": ">=1.22.0"
